@@ -549,5 +549,12 @@
     "seen_sms": [],
     "country_limits": {},
     "lang": "id"
+  },
+  "6364863460": {
+    "otpHistory": [],
+    "all_numbers": {},
+    "sent_otps": {},
+    "country_limits": {},
+    "joined_at": "2026-02-15T08:50:45.999688"
   }
 }
