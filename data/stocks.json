@@ -2086,10 +2086,7 @@
     "service": "INDIGO"
   },
   "Indonesia (MANDIRI)": {
-    "numbers": [
-      "+6285880200975",
-      "+628561853838"
-    ],
+    "numbers": [],
     "flag": "\u00f0\u0178\u2021\u00ae\u00f0\u0178\u2021\u00a9",
     "service": "MANDIRI"
   }
