@@ -103,9 +103,7 @@
     "service": "WA"
   },
   "Afghanistan (CAM)": {
-    "numbers": [
-      "+9374942"
-    ],
+    "numbers": [],
     "flag": "\ud83c\udde6\ud83c\uddeb",
     "service": "CAM"
   }
