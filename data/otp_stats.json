@@ -1,4 +1,6 @@
 {
-  "date": "2026-04-20",
-  "countries": {}
+  "date": "2026-04-23",
+  "countries": {
+    "Afghanistan": 2
+  }
 }
