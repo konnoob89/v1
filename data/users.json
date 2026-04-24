@@ -673,5 +673,12 @@
     "all_numbers": {},
     "country_limits": {},
     "joined_at": "2026-02-15T08:50:45.999688"
+  },
+  "1397941074": {
+    "otpHistory": [],
+    "all_numbers": {},
+    "seen_sms": [],
+    "country_limits": {},
+    "lang": "id"
   }
 }
